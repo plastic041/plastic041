@@ -1,4 +1,4 @@
-[![plastic041's GitHub stats](https://github-readme-stats.vercel.app/api?username=plastic041)](https://github.com/anuraghazra/github-readme-stats)
+[![plastic041's GitHub stats](http://github-readme-stats-murex-five-87.vercel.app/api?username=plastic041)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Formatted with Biome](https://img.shields.io/badge/Formatted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev/)
 [![Linted with Biome](https://img.shields.io/badge/Linted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev)

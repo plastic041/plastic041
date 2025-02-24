@@ -4,6 +4,8 @@
 [![Linted with Biome](https://img.shields.io/badge/Linted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev)
 <img alt="vim badge" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 
+## 포트폴리오 https://byeonjaewoo.vercel.app/
+
 ## 기술 블로그 https://snubi-net.vercel.app/
 
 - Astro
